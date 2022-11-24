@@ -1,0 +1,8 @@
+-lang=c
+-I"C:\WorkSpace\common_r8c38a"
+-c
+-finfo
+-dir "C:\WorkSpace\ˆ²\2022_miconcar_out\2022_miconcar\Debug"
+-silent
+-R8CE
+"C:\WorkSpace\ˆ²\2022_miconcar_out\2022_miconcar\startup.c"
